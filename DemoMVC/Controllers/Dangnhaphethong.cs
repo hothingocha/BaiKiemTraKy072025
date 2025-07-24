@@ -9,6 +9,5 @@ namespace DemoMVC.Controllers
         {
             return View();
         }
-        public IActionResult 
     }
 }
